@@ -1,0 +1,10 @@
+frontend/templates
+frontend/nextassets
+# Bazasi, virtual muhit va IDE fayllari repoga kirmaydi
+db.sqlite3
+.venv/
+venv/
+.idea/
+__pycache__/
+*.pyc
+.env*
